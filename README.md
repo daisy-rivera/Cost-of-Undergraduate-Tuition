@@ -24,6 +24,8 @@ This database will help students predict the average cost for Undergraduate scho
    - Decision Tree Model
    - XGBoost Model
   - Each model was tuned to try and improve the default models
+  
+  ## Exploratory Data Analysis Visuals
    
  #### Average USA Tuition Cost by Year
 ![Capture](https://user-images.githubusercontent.com/122565297/230646504-65530aa5-5e67-45fe-84f9-774e9533f6cd.PNG)
@@ -32,6 +34,14 @@ This database will help students predict the average cost for Undergraduate scho
 ### Average Cost by Tuition and Expense Type in USA
 ![Capture2](https://user-images.githubusercontent.com/122565297/230646585-9ac924d0-6bfc-48aa-a9ca-e6ff8ec004ab.PNG)
 - This graph shows the expense by type (Fees/Tuition vs Room/Board) by the type of Tuition (Public In-State, Public Out-of-State or Private). We can see by this graph that Room/Board costs are pretty similar for all types of Tuition. It is the Fees/Tuition expenses that largely differ based on the Type of Tuition.
+
+### Other Visuals Explored in Project
+- Average Yearly Cost by Expense Type
+- Average Cost of Tuition by State
+- Average Expense for 2-year VS 4-year Tuition
+- 5 Most Expensive States by Expense Type
+- 5 Least Expensive States by Expense Type
+
 
 ## Results
 -  I utilized various regression metrics to evaluate and compare my models. Overall, the XGBoost and DecisionTree model performed very well. As a final Model I would choose the Decision Tree Model only because it did slightly better than the XGBoost. I had final R2 Test score of .9842 with the DecisionTree Model. 
