@@ -46,7 +46,7 @@ This database will help students predict the average cost for Undergraduate scho
 ## Results
 -  I utilized various regression metrics to evaluate and compare my models. Overall, the XGBoost and DecisionTree model performed very well. As a final Model I would choose the Decision Tree Model only because it did slightly better than the XGBoost. I had final R2 Test score of .9842 with the DecisionTree Model. 
 
-##Recommendations
+## Recommendations
 - This database does not include information regarding scholarships which can be an additional assett to help future students get a more precise idea of what their costs may be. We can also try to get more specific cost details like cost per credit. It may be helpful as well to gather the index cost of living for each state to see if there is any correlation between the cost of living and the cost of tuition for each state.
 
 ### For further information
