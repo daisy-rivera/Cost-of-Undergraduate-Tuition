@@ -26,11 +26,11 @@ This database will help students predict the average cost for Undergraduate scho
   - Each model was tuned to try and improve the default models
    
  #### Average USA Tuition Cost by Year
-![Capture](https://user-images.githubusercontent.com/122565297/224843606-a74eef3e-0c32-43ee-b561-9f9a0e70d174.PNG) 
+![Capture](https://user-images.githubusercontent.com/122565297/230646504-65530aa5-5e67-45fe-84f9-774e9533f6cd.PNG)
 - The data clearly shows that the average cost of tuition is increasing year by year. We can confidently conclude that the cost of tuition will continue to rise in the upcoming years.
 
 ### Average Cost by Tuition and Expense Type in USA
-![Capture2](https://user-images.githubusercontent.com/122565297/224844265-cc837f94-4593-40bf-8a87-d96bcef0915b.PNG)
+![Capture2](https://user-images.githubusercontent.com/122565297/230646585-9ac924d0-6bfc-48aa-a9ca-e6ff8ec004ab.PNG)
 - This graph shows the expense by type (Fees/Tuition vs Room/Board) by the type of Tuition (Public In-State, Public Out-of-State or Private). We can see by this graph that Room/Board costs are pretty similar for all types of Tuition. It is the Fees/Tuition expenses that largely differ based on the Type of Tuition.
 
 ## Results
