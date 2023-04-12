@@ -41,6 +41,8 @@ This database will help students predict the average cost for Undergraduate scho
 - Average Expense for 2-year VS 4-year Tuition
 - 5 Most Expensive States by Expense Type
 - 5 Least Expensive States by Expense Type
+- Average Cost by Expenses for each USA Region
+- Average Cost per Semester by Region
 
 
 ## Results
